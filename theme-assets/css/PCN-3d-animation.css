@@ -2339,7 +2339,7 @@ svg#loader g:last-child circle {
   box-shadow: 0 0 12px 0 #18b0d7;
 }
 .vertical-social .midnightHeader .midnightInner ul {
-  margin-bottom : 0;
+  margin-top: 15px !important;
   padding : 14px 0 8px;
 }
 .vertical-social .midnightHeader .midnightInner ul li {
