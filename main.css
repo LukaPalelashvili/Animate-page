@@ -2617,7 +2617,7 @@
   }
   
   header .navbar.navbar-fixed {
-    background: linear-gradient(to right, #000, #232526);
+    background: linear-gradient(to right, #78476b, #352b55) !important;
    background-color: #000; 
     padding : 0.75rem 0;
   }
@@ -3526,14 +3526,13 @@
   /* 3d animation footer section : footer area css */
   .footer {
     /* margin-top : 6.5rem; */
-    padding-top : 6.5rem !important;
-    padding-bottom : 2.5rem;
+    padding-top : 3.5rem !important;
+    /* padding-bottom : 2.5rem; */
     position : relative;
     /* background : url('../images/viber_image_2021-12-23_16-29-23-221.png') no-repeat center center; */
     -webkit-background-size : cover;
             background-size : cover;
-            background: linear-gradient(to right, #000, #232526);
-            background-color: rgba(0, 0, 0, 0);
+            background: linear-gradient(to right, #78476b, #352b55) !important;
         background-color: #000;
         box-shadow: rgba(0, 0, 0, 0.04) 40px 3px 40px;
         
@@ -4517,7 +4516,7 @@
   }
   
   p {
-    color : #C7B8FF;
+    color : #FFFFFF;
   }
   
   .dark-bg-text-color {
@@ -4529,7 +4528,7 @@
   }
   
   .heading .sub-title {
-    opacity : 0.05 !important;
+    /* opacity : 0.05 !important; */
   }
   
   .crypto-3d-graphic {
