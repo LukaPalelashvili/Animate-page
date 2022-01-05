@@ -1,0 +1,154 @@
+.py-5 {
+
+    padding-bottom: 1.25rem;
+    padding-top: 1.25rem;
+}
+
+.mt-2 {
+    margin-top: .5rem;
+}
+
+.px-4 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.max-w-7xl {
+    max-width: 80rem;
+}
+
+.bg-arrayLight {
+    --tw-bg-opacity: 1;
+    background-color: rgba(12, 35, 72, var(--tw-bg-opacity));
+}
+
+.rounded-t-3xl {
+    border-top-left-radius: 1.5rem;
+    border-top-right-radius: 1.5rem;
+}
+
+.px-7 {
+    padding-left: 1.75rem;
+    padding-right: 1.75rem;
+}
+
+.bg-arrayDark {
+    --tw-bg-opacity: 1;
+    background-color: rgba(4, 26, 54, var(--tw-bg-opacity));
+}
+
+.bg-arrayMedium {
+    --tw-bg-opacity: 1;
+    background-color: rgba(17, 36, 69, var(--tw-bg-opacity));
+}
+
+.rounded-b-3xl {
+    border-bottom-left-radius: 1.5rem;
+    border-bottom-right-radius: 1.5rem;
+}
+
+.gatsby-image-wrapper-constrained {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.gatsby-image-wrapper {
+    position: relative;
+    overflow: hidden;
+}
+
+.gatsby-image-wrapper img {
+    bottom: 0;
+    height: 100%;
+    left: 0;
+    margin: 0;
+    max-width: none;
+    padding: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 100%;
+    object-fit: cover;
+}
+
+.gatsby-image-wrapper [data-main-image] {
+    opacity: 0;
+    transform: translateZ(0);
+    transition: opacity .25s linear;
+    will-change: opacity;
+}
+
+.text-main {
+    --tw-text-opacity: 1;
+    color: rgba(255, 255, 255, var(--tw-text-opacity));
+}
+
+.bg-dark {
+    --tw-bg-opacity: 1;
+}
+
+
+.btnMain {
+    --tw-text-opacity: 1;
+    align-items: center;
+    border-radius: .5rem;
+    color: rgba(255, 255, 255, var(--tw-text-opacity));
+    font-size: 1rem;
+    font-weight: 500;
+    justify-content: center;
+    line-height: 1.5rem;
+    padding: .5rem 1.5rem;
+    text-align: center;
+}
+
+
+.btnMain {
+    display: inline-flex;
+}
+
+.bg-blueOcean {
+    --tw-bg-opacity: 1;
+    background-color: rgba(32, 173, 234, var(--tw-bg-opacity));
+}
+
+.border-blueOcean {
+    --tw-border-opacity: 1;
+    border-color: rgba(32, 173, 234, var(--tw-border-opacity));
+}
+.border-2 {
+    border-width: 2px;
+}
+.cursor-pointer {
+    cursor: pointer;
+}
+
+
+.mb-14 {
+    margin-bottom: 3.5rem;
+}
+
+.center-text-cor {
+    padding-bottom: 10px;
+    /* padding-top: 10px; */
+}
+
+.my-9 {
+    margin-bottom: 2.25rem;
+    margin-top: 2.25rem;
+}
+
+.text-2xl {
+    font-size: 1.5rem;
+    line-height: 2rem;
+}
+
+
+.bg-arrayDark {
+    --tw-bg-opacity: 1;
+    background-color: rgba(4,26,54,var(--tw-bg-opacity));
+}
+
+.text-main {
+    --tw-text-opacity: 1;
+    color: rgba(255,255,255,var(--tw-text-opacity));
+}

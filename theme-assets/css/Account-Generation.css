@@ -1,0 +1,9 @@
+#about:before {
+    content : '';
+    background : url('./theme-assets/images/what-is-crypto-shape.png') no-repeat center right;
+    width : 236px;
+    position : absolute;
+    left : 0;
+    height : 729px;
+  }
+

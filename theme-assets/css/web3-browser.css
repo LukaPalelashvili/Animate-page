@@ -1,0 +1,46 @@
+.self-center {
+    align-self: center;
+}
+
+.-z-1 {
+    z-index: -1;
+}
+
+.h-full {
+    height: 100%;
+}
+
+.xl\:text-7xl {
+    font-size: 4.8rem;
+}
+
+.grid {
+    display: grid;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+.hidden {
+    display: none;
+}
+
+.md\:flex-row {
+    flex-direction: row;
+}
+
+.lg\:col-span-3 {
+    grid-column: span 3 / span 3;
+}
+
+.-ml-12 {
+    margin-left: -3rem;
+}
+
+.items-center {
+    align-items: center;
+}
+.flex {
+    display: flex;
+}
