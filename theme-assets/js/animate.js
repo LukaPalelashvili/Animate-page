@@ -3,6 +3,6 @@ $(document).ready(function() {
         // offset: "50%",
         animateClass: "animated",
         // animateGroupClass: "animate-group-on-scroll",
-        x: console.log("shemovedi"),
+       
     });
 });

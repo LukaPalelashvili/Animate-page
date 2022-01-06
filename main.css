@@ -2491,7 +2491,7 @@
   }
   .navbar ul.navbar-nav li .nav-link {
     font-size : 0.8rem;
-    /* color: #fff; */
+    color: #fff; 
     font-weight : 700;
     letter-spacing : 0.5px;
     padding : 0.21rem 0.95rem;
@@ -2620,11 +2620,13 @@
     background: linear-gradient(to right, #78476b, #352b55) !important;
    background-color: #000; 
     padding : 0.75rem 0;
+    -webkit-box-shadow : rgba(0, 0, 0, 0.04) 0px 3px 40px;
+    box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 40px;
   }
   
   header .navbar.navbar-shadow {
-    -webkit-box-shadow : rgba(0, 0, 0, 0.04) 0px 3px 40px;
-    box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 40px;
+    /* -webkit-box-shadow : rgba(0, 0, 0, 0.04) 0px 3px 40px;
+    box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 40px; */
   }
   
   .dropdown-menu{

@@ -16,6 +16,8 @@ ScrollTrigger.create({
   end: "45% 100%",
   scrub: 3 });
 
+  
+
 
 // hills animation 
 scene1.to("#h1-1", { y: 3 * speed, x: 1 * speed, scale: 0.9, ease: "power1.in" }, 0);
